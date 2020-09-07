@@ -1,0 +1,89 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  border: 0;
+
+}
+body{
+  background-image: url("img/image.jpg");
+}
+.container{
+  width: 80vw;
+  height: 80vh;;
+  margin: auto;
+}
+/* header */
+.head {
+  margin-top: 25px;
+}
+img{
+  width: 150px;
+  height: 100px;
+  vertical-align: middle;
+}
+#gmail{
+  font-size: 25px;
+  margin-left: 5px;
+  color: white;
+}
+hr{
+  margin-top: 20px;
+  border-bottom: 3px solid white;
+}
+/* search section */
+section{
+  margin-top: 10px;
+}
+button{
+  border-radius: 20%;
+}
+#thirty{
+  background-color: orange;
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 50px;font-weight: bolder;
+}
+.messages{
+  font-size: 35px;
+  margin-top: 20px;
+  color: white;
+}
+/* mail section */
+.line-container{
+
+}
+input, #star{
+  font-size: 18px;
+  margin-left: 5px;
+}
+.line{
+  font-size: 18px;
+  font-weight: bolder;
+  background-color: lightgrey;
+  width: 100%;
+  display: inline-block;
+  border: 1px solid black;
+}
+#testo{
+  color: grey;
+  font-weight: 500;
+}
+.line.white{
+  background-color: white;
+}
+/* footer */
+
+#giulio{
+  font-size: 20px;
+  font-style: italic;
+}
+.foot{
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  margin-top: 10px;
+  font-weight: bolder;
+}
