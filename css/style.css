@@ -5,7 +5,7 @@
 
 }
 body{
-  background-image: url("img/image.jpg");
+  background-image: url("../img/image.jpg");
 }
 .container{
   width: 80vw;
